@@ -43,7 +43,7 @@ The post covers:
 1. Install the required libraries:
 
 ```
-pip install streamlit google-generativeai python-dotenv
+pip install -r requirements.txt
 ```
 
 2. Set up your API Key:
