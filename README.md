@@ -2,8 +2,8 @@
 This project shows how to build a **chat interface with memory** using **Streamlit** and **Google's Gemini model** (gemini-2.0-flash).
 
 
-## 📖 Medium Post
-There is a full step-by-step tutorial on Medium explaining this project in detail.
+## 📖 Post
+There is a full step-by-step tutorial on [Towards Data Science](https://towardsdatascience.com/step-by-step-guide-to-build-and-deploy-an-llm-powered-chat-with-memory-in-streamlit/) explaining this project in detail.
 
 The post covers:
 
